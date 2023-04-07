@@ -1,0 +1,11 @@
+{
+	"welcome": {
+		"title": "Welcome"
+	},
+	"macintosh": {
+		"title": "Macintosh",
+		"pages": [
+			["applications", "Applications"]
+		]
+	}
+}
